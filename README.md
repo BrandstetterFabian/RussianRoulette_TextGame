@@ -1,6 +1,6 @@
 # RUSSIAN ROULETTE
 This is an easy text-based game in which you play russian roulette.
-There are 4 different play modes from which you can choose (Classic Mode, Extended Classic Mode, DeadEye Mode and Hybrid Mode) that are explained in the README.
+There are 4 different game modes from which you can choose (Classic Mode, Extended Classic Mode, DeadEye Mode and Hybrid Mode) that are explained in the README.
 The game is pretty self-explanatory, so I will just describe the different game modes.
 
 ## Classic Mode
