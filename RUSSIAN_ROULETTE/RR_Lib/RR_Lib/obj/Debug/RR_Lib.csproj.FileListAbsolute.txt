@@ -1,0 +1,6 @@
+C:\Users\Fabian\Documents\PRIVAT\VS SPIELE\C#\KONSOLE\RUSSIAN_ROULETTE\RR_Lib\RR_Lib\bin\Debug\RR_Lib.dll
+C:\Users\Fabian\Documents\PRIVAT\VS SPIELE\C#\KONSOLE\RUSSIAN_ROULETTE\RR_Lib\RR_Lib\bin\Debug\RR_Lib.pdb
+C:\Users\Fabian\Documents\PRIVAT\VS SPIELE\C#\KONSOLE\RUSSIAN_ROULETTE\RR_Lib\RR_Lib\obj\Debug\RR_Lib.csproj.AssemblyReference.cache
+C:\Users\Fabian\Documents\PRIVAT\VS SPIELE\C#\KONSOLE\RUSSIAN_ROULETTE\RR_Lib\RR_Lib\obj\Debug\RR_Lib.csproj.CoreCompileInputs.cache
+C:\Users\Fabian\Documents\PRIVAT\VS SPIELE\C#\KONSOLE\RUSSIAN_ROULETTE\RR_Lib\RR_Lib\obj\Debug\RR_Lib.dll
+C:\Users\Fabian\Documents\PRIVAT\VS SPIELE\C#\KONSOLE\RUSSIAN_ROULETTE\RR_Lib\RR_Lib\obj\Debug\RR_Lib.pdb
